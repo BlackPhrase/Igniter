@@ -1,0 +1,9 @@
+[package]
+name = "testapp"
+version = "0.1.0"
+authors = ["BlackPhrase <BlackPhrase@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+
+framework = { path = "../framework" }
